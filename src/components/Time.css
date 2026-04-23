@@ -1,0 +1,16 @@
+.timer {
+  width: 100%;
+  text-align: center;
+
+  margin-top:0px; 
+  padding: 10px 0;
+
+  font-size: 22px;
+  font-weight: bold;
+
+  color: white;
+
+  background: #963cfe;
+
+  backdrop-filter: blur(6px);
+}
