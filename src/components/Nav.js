@@ -7,7 +7,7 @@ import React, { useState } from 'react'
     <div >
       <nav className='bg-black/40 backdrop-blur-md text-white dflex justify-between p-4 navbar'>
       
-      <div className='font-bold text-xxl logo'><img src='logo.png'/></div>
+      <div className='font-bold text-xxl logoo'><img src='logo.png'/></div>
       <div className='list'>
         <a href='#'>Home</a>
         <a href='#'>Fixture</a>
